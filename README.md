@@ -21,10 +21,11 @@
 
 # PROGRAM: 
 
-![4b_code1](https://github.com/user-attachments/assets/25f4c465-65da-4eaa-8e13-e9cdb05c5578)
+![4b_code1](https://github.com/user-attachments/assets/46224bf6-830a-4721-8d90-e65ee1d51ac0)
 
 
-![4b_code2](https://github.com/user-attachments/assets/1502ddd0-6041-4b71-817c-5a2582ba0c02)
+![4b_code2](https://github.com/user-attachments/assets/04f78207-7467-4546-bb90-b52bb2158928)
+
 
 # OUTPUT: 
 
